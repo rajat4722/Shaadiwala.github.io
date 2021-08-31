@@ -1,0 +1,54 @@
+*{
+    background: lightgray;
+
+}
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(214, 3, 3);
+    text-align: center;
+}
+
+li,a,button{ 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    text-align: center;
+    display: inline;
+    padding: 20px;
+    
+    
+   
+    
+   
+}
+header{
+    
+
+   text-align: center;
+    justify-content: space-between;
+}
+
+button{
+    padding: 9px 25px;
+    background-color: aqua;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover{
+    background-color: rgba(0, green, blue, alpha);
+}
+.foot{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+.fot{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    
+}
